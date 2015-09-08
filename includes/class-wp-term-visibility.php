@@ -50,7 +50,7 @@ final class WP_Term_Visibility extends WP_Term_Meta_UI {
 		$this->labels = array(
 			'singular'    => esc_html__( 'Visibility',   'wp-term-color' ),
 			'plural'      => esc_html__( 'Visibilities', 'wp-term-color' ),
-			'description' => esc_html__( 'Assign terms a custom color to visually separate them from each-other.', 'wp-term-color' )
+			'description' => esc_html__( 'The visibiilty is used to restrict specific terms to specific users.', 'wp-term-color' )
 		);
 
 		// Call the parent and pass the file
