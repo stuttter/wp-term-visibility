@@ -37,4 +37,4 @@ function _wp_term_visibility() {
 	// Instantiate the main class
 	new WP_Term_Visibility( $file );
 }
-add_action( 'init', '_wp_term_visibility', 98 );
+add_action( 'init', '_wp_term_visibility', 78 );
