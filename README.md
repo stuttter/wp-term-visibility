@@ -45,7 +45,7 @@ $terms = get_terms( 'category', array(
 
 ### Where can I get support?
 
-The WordPress support forums: https://wordpress.org/tags/wp-term-visibility/
+The WordPress support forums: https://wordpress.org/support/plugin/wp-term-visibility/
 
 ### Can I contribute?
 
