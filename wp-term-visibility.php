@@ -14,7 +14,7 @@
 defined( 'ABSPATH' ) || exit;
 
 /**
- * Include the main WordPress Term Visibility files
+ * Include the required files & dependencies
  *
  * @since 0.1.2
  */
@@ -31,13 +31,11 @@ function _wp_term_visibility() {
 add_action( 'plugins_loaded', '_wp_term_visibility' );
 
 /**
- * Instantiate the main WordPress Term Images class
+ * Instantiate the main class
  *
  * @since 0.2.0
  */
 function _wp_term_visibility_init() {
-
-	// Instantiate the main class
 	new WP_Term_Visibility( __FILE__ );
 }
 add_action( 'init', '_wp_term_visibility_init', 75 );
