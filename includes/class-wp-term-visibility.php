@@ -17,7 +17,7 @@ if ( ! class_exists( 'WP_Term_Visibility' ) ) :
  *
  * @since 0.1.2
  */
-final class WP_Term_Visibility extends WP_Term_Meta_UI {
+final class WP_Term_Visibility extends JJJ\WP\Term\Meta\UI {
 
 	/**
 	 * @var string Plugin version
@@ -144,7 +144,7 @@ final class WP_Term_Visibility extends WP_Term_Meta_UI {
 	}
 
 	/**
-	 * Return the formatted output for the colomn row
+	 * Return the formatted output for the column row
 	 *
 	 * @since 0.1.2
 	 *

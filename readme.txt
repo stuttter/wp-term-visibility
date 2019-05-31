@@ -1,11 +1,12 @@
 === WP Term Visibility ===
-Contributors: johnjamesjacoby, stuttter
-Tags: taxonomy, term, meta, metadata, visibility, privacy
+Contributors:      johnjamesjacoby, stuttter
+Tags:              taxonomy, term, meta, metadata, visibility, privacy
+Requires PHP:      5.6.20
 Requires at least: 4.4
-Tested up to: 4.4
-Stable tag: 0.2.0
-License: GPLv2 or later
-License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Tested up to:      5.2
+Stable tag:        0.3.0
+License:           GPLv2 or later
+License URI:       http://www.gnu.org/licenses/gpl-2.0.html
 
 == Description ==
 
@@ -88,6 +89,9 @@ The WordPress support forums: https://wordpress.org/support/plugin/wp-term-visib
 http://github.com/stuttter/wp-term-visibility/
 
 == Changelog ==
+
+= 0.3.0 =
+* Update base class
 
 = 0.2.0 =
 * Update base class
