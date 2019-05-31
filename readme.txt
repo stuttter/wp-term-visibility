@@ -15,12 +15,6 @@ Visibility for categories, tags, and other taxonomy terms
 
 WP Term Visibility allows users to assign a visibility to any category, tag, or taxonomy term using a dropdown, providing customized functionality for taxonomy terms.
 
-= Dependencies =
-
-Not since WordPress 4.4.
-
-Install the [WP Term Meta](https://wordpress.org/plugins/wp-term-meta/ "Metadata, for taxonomy terms.") plugin if you're on an earlier version.
-
 = Also checkout =
 
 * [WP Chosen](https://wordpress.org/plugins/wp-chosen/ "Make long, unwieldy select boxes much more user-friendly.")
