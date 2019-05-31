@@ -22,12 +22,12 @@ final class WP_Term_Visibility extends JJJ\WP\Term\Meta\UI {
 	/**
 	 * @var string Plugin version
 	 */
-	public $version = '0.2.0';
+	public $version = '0.3.0';
 
 	/**
 	 * @var string Database version
 	 */
-	public $db_version = 201601070001;
+	public $db_version = 201905300001;
 
 	/**
 	 * @var string Metadata key
