@@ -45,7 +45,7 @@ WP Term Visibility allows users to assign a visibility to any category, tag, or 
 
 = Does this plugin depend on any others? =
 
-Yes. Please install the [WP Term Meta](https://wordpress.org/plugins/wp-term-meta/ "Metadata, for taxonomy terms.") plugin.
+No. Not since WordPress 4.4.
 
 = Does this create new database tables? =
 
